@@ -20,7 +20,7 @@ If using sublime, install [Java​Script​Next - ES6 Syntax](https://packagecon
 
 ## Routes
 
-`/` - hellow world
+`/` - hello world
 
 `/echo` - echo's the query param `say`
 
