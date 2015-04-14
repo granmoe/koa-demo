@@ -5,11 +5,14 @@
   "description": "A demo/sandbox for the koa framework",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --harmony --use-strict app"
   },
   "author": "John Hofrichter",
   "license": "https://github.com/johnhof/koa-demo/blob/master/LICENSE",
   "dependencies": {
-    "koa": "^0.19.1"
+    "colors": "^1.0.3",
+    "koa": "^0.19.1",
+    "koa-route": "^2.4.1"
   }
 }
