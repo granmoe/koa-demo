@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "John Hofrichter",
-  "license": "https://github.com/johnhof/koa-demo/blob/master/LICENSE"
+  "license": "https://github.com/johnhof/koa-demo/blob/master/LICENSE",
+  "dependencies": {
+    "koa": "^0.19.1"
+  }
 }
