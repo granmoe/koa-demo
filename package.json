@@ -1,0 +1,12 @@
+{
+  "name": "koa-demo",
+  "version": "0.0.1",
+  "repository": "https://github.com/johnhof/koa-demo",
+  "description": "A demo/sandbox for the koa framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Hofrichter",
+  "license": "https://github.com/johnhof/koa-demo/blob/master/LICENSE"
+}
