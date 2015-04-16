@@ -13,6 +13,8 @@
   "dependencies": {
     "colors": "^1.0.3",
     "koa": "^0.19.1",
-    "koa-route": "^2.4.1"
+    "koa-compose": "^2.3.0",
+    "koa-router": "^4.3.2",
+    "lodash": "^3.7.0"
   }
 }
